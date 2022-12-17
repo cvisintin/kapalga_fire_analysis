@@ -1,0 +1,17 @@
+Species,Mortality_multiplier_delta,Fire_Pattern,Initial_juvenile_density,Initial_adult_density,Juvenile_survival,Adult_survival,Recruitment,Transition,Juvenile_survival_SD,Adult_survival_SD,Recruitment_SD,Transition_SD,Max_individuals_K,Juvenile_dispersal_distance,Adult_dispersal_distance,Juvenile_dispersal_proportion,Adult_dispersal_proportion,Early_fire_survival_multiplier,Late_fire_survival_multiplier,Early_fire_transition_multiplier,Late_fire_transition_multiplier,Early_fire_recruitment_multiplier,Late_fire_recruitment_multiplier
+Northern_brown_bandicoot,decreased_mortality_effect,clumped,0.3713,0.4187,0.55,0.75,0.45,0.36,0.07,0.11,0.12,0.1,2,512,512,1,0.1,0.895,0.7,0.86,0.6,1,0.21
+Northern_brown_bandicoot,increased_mortality_effect,clumped,0.3713,0.4187,0.55,0.75,0.45,0.36,0.07,0.11,0.12,0.1,2,512,512,1,0.1,0.825,0.5,0.86,0.6,1,0.21
+Northern_brown_bandicoot,decreased_mortality_effect,dispersed,0.3713,0.4187,0.55,0.75,0.45,0.36,0.07,0.11,0.12,0.1,2,512,512,1,0.1,0.895,0.7,0.86,0.6,1,0.21
+Northern_brown_bandicoot,increased_mortality_effect,dispersed,0.3713,0.4187,0.55,0.75,0.45,0.36,0.07,0.11,0.12,0.1,2,512,512,1,0.1,0.825,0.5,0.86,0.6,1,0.21
+Common_brushtail_possum,decreased_mortality_effect,clumped,0.3744,0.4056,0.55,0.79,0.46,0.25,0.09,0.08,0.26,0.11,2.46,288,288,1,0.1,0.8725,0.775,0.83,0.7,0.46,0.02
+Common_brushtail_possum,increased_mortality_effect,clumped,0.3744,0.4056,0.55,0.79,0.46,0.25,0.09,0.08,0.26,0.11,2.46,288,288,1,0.1,0.7875,0.625,0.83,0.7,0.46,0.02
+Common_brushtail_possum,decreased_mortality_effect,dispersed,0.3744,0.4056,0.55,0.79,0.46,0.25,0.09,0.08,0.26,0.11,2.46,288,288,1,0.1,0.8725,0.775,0.83,0.7,0.46,0.02
+Common_brushtail_possum,increased_mortality_effect,dispersed,0.3744,0.4056,0.55,0.79,0.46,0.25,0.09,0.08,0.26,0.11,2.46,288,288,1,0.1,0.7875,0.625,0.83,0.7,0.46,0.02
+Grassland_melomys,decreased_mortality_effect,clumped,0.2365,0.1935,0.36,0.77,0.78,0.2,0.05,0.05,0.23,0.04,1.08,128,128,1,0.1,0.685,0.7375,0.58,0.65,1.9,1.26
+Grassland_melomys,increased_mortality_effect,clumped,0.2365,0.1935,0.36,0.77,0.78,0.2,0.05,0.05,0.23,0.04,1.08,128,128,1,0.1,0.475,0.5625,0.58,0.65,1.9,1.26
+Grassland_melomys,decreased_mortality_effect,dispersed,0.2365,0.1935,0.36,0.77,0.78,0.2,0.05,0.05,0.23,0.04,1.08,128,128,1,0.1,0.685,0.7375,0.58,0.65,1.9,1.26
+Grassland_melomys,increased_mortality_effect,dispersed,0.2365,0.1935,0.36,0.77,0.78,0.2,0.05,0.05,0.23,0.04,1.08,128,128,1,0.1,0.475,0.5625,0.58,0.65,1.9,1.26
+Northern_quoll,decreased_mortality_effect,clumped,0.2021,0.2279,0.37,0.88,0,0,0.11,0.08,0,0,1.06,1152,1152,1,0.1,1,0.85,1,0.8,1.07,0.27
+Northern_quoll,increased_mortality_effect,clumped,0.2021,0.2279,0.37,0.88,0,0,0.11,0.08,0,0,1.06,1152,1152,1,0.1,1,0.75,1,0.8,1.07,0.27
+Northern_quoll,decreased_mortality_effect,dispersed,0.2021,0.2279,0.37,0.88,0,0,0.11,0.08,0,0,1.06,1152,1152,1,0.1,1,0.85,1,0.8,1.07,0.27
+Northern_quoll,increased_mortality_effect,dispersed,0.2021,0.2279,0.37,0.88,0,0,0.11,0.08,0,0,1.06,1152,1152,1,0.1,1,0.75,1,0.8,1.07,0.27
